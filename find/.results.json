@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2025-05-08T17:36:59.940Z",
-    "end": "2025-05-08T17:36:59.942Z",
-    "duration": 2
+    "start": "2025-05-08T19:33:13.364Z",
+    "end": "2025-05-08T19:33:13.367Z",
+    "duration": 3
   },
   "tests": [],
   "pending": [],
@@ -15,7 +15,7 @@
     {
       "title": "returns name of student with perfect score",
       "fullTitle": "Array.find Practice Exercises firstPerfectScore returns name of student with perfect score",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected undefined to equal 'Charlie'",

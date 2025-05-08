@@ -1,15 +1,12 @@
-// 1. Get students who passed (score >= 70)
-function getPassingStudents() {
+function getPassingStudents () {
 
 }
 
-// 2. Filter out even numbers
-function onlyOdds() {
+function onlyOdds () {
 
 }
 
-// 3. Get users with active accounts
-function activeUsers() {
+function activeUsers () {
 
 }
 

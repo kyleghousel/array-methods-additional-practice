@@ -1,15 +1,12 @@
-// 1. Capitalize all names
-function capitalizeNames() {
+function capitalizeNames () {
 
 }
 
-// 2. Convert Fahrenheit to Celsius
-function toCelsius() {
+function toCelsius () {
 
 }
 
-// 3. Get just the titles from an array of books
-function extractTitles() {
+function extractTitles () {
 
 }
 

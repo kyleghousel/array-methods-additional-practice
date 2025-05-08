@@ -4,7 +4,7 @@ const {
   firstOverdueTask,
   findProductBySKU,
   firstPG13
-} = require('.');
+} = require('./find-practice');
 
 describe('Array.find Practice Exercises', () => {
   describe('firstPerfectScore', () => {

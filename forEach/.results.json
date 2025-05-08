@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2025-05-08T18:54:35.034Z",
+    "end": "2025-05-08T18:54:35.036Z",
+    "duration": 2
+  },
+  "tests": [
+    {
+      "title": "pushes all user names into a target array",
+      "fullTitle": "collectNames pushes all user names into a target array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "adds 10 to each student score",
+      "fullTitle": "boostScores adds 10 to each student score",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "pushes all user names into a target array",
+      "fullTitle": "collectNames pushes all user names into a target array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "adds 10 to each student score",
+      "fullTitle": "boostScores adds 10 to each student score",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 1,
+    "start": "2025-05-08T19:07:08.133Z",
+    "end": "2025-05-08T19:07:08.135Z",
+    "duration": 2
+  },
+  "tests": [
+    {
+      "title": "capitalizes each name",
+      "fullTitle": "capitalizeNames capitalizes each name",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "converts F to C",
+      "fullTitle": "toCelsius converts F to C",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "returns book titles only",
+      "fullTitle": "extractTitles returns book titles only",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected undefined to deeply equal [ 'Book A', 'Book B' ]",
+        "showDiff": true,
+        "expected": [
+          "Book A",
+          "Book B"
+        ],
+        "stack": "AssertionError: expected undefined to deeply equal [ 'Book A', 'Book B' ]\n    at Proxy.assertEqual (/Users/kyle.housel/Development/code/se-prep/phase-1/extra-practice/array-methods/node_modules/chai/lib/chai/core/assertions.js:1020:19)\n    at Proxy.methodWrapper (/Users/kyle.housel/Development/code/se-prep/phase-1/extra-practice/array-methods/node_modules/chai/lib/chai/utils/addMethod.js:57:25)\n    at Context.<anonymous> (map-practice.test.js:19:42)\n    at process.processImmediate (node:internal/timers:478:21)"
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "capitalizes each name",
+      "fullTitle": "capitalizeNames capitalizes each name",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "converts F to C",
+      "fullTitle": "toCelsius converts F to C",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
