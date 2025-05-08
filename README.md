@@ -1,1 +1,11 @@
-# array-methods-additional-practice
+# Array Methods Additional Practice
+
+### find
+
+### filter
+
+### map
+
+### reduce
+
+### forEach
